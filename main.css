@@ -13,6 +13,7 @@ body{
   height: 100vh;
   background: url(assents/freedom.jpg)no-repeat center;
   background: cover;
+  color: #333;
 }
 .wrapper{
   padding-top: 4rem;
@@ -23,8 +24,12 @@ body{
 
 .quote {
   font-size: 2.5rem;
+  font-family: "Julius Sans One", serif;
 }
 
 .autor {
   font-size: 1.5rem;
+  font-style: italic;
+  font-family: "Crimson Text", serif;
+  
 }
