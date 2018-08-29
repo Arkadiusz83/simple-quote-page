@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box
+}
+body,
+html{
+  padding:0;
+  margin: 0;
+  font-size: 100%;
+  line-height: 1.5;
+}
+body{
+  width: 100%;
+  height: 100vh;
+  background: url(assents/freedom.jpg)no-repeat center;
+  background: cover;
+}
+.wrapper{
+  padding-top: 4rem;
+  width: 90%;
+  margin:0 auto;
+  text-align: center;
+}
+
+.quote {
+  font-size: 2.5rem;
+}
+
+.autor {
+  font-size: 1.5rem;
+}
